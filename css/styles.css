@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+    color: rgb(41, 97, 55);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.h1 {
+    font-size: 28px;
+}
+
+.h2 {
+    font-size: 21px;
+}
+
+.main_text {
+    font-size: 14px;
+}
+
+.notice {
+    color: gray;
+    font-size: 10px;
+    padding-left: 20%;
+}
